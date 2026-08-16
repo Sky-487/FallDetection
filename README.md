@@ -1,5 +1,5 @@
 # FallDetection
-These codes is for a wearable waist fall detection device.  
+These codes are for a wearable waist fall detection device.  
 The reference code comes from a set of gesture recognition codes: https://github.com/mushroomcloud-cc/tinyml-workshop
 
 1 Hardware 
